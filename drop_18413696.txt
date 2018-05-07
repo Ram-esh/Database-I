@@ -1,0 +1,5 @@
+--@E:\Ram_Esh\drop_18413696.txt
+DROP TABLE sites;
+DROP TABLE subject_areas;
+DROP TABLE trainers;
+PURGE RECYCLEBIN;
